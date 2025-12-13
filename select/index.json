@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "あとがきのような恋",
+  "base_artist": "miolly",
+  "createdAt": "2025-12-13T06:47:40.619329Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あとがきのような恋",
+      "artist": "miolly",
+      "has_synced": false,
+      "path": "select/pl_01_あとがきのような恋_miolly.txt"
+    }
+  ]
+}
